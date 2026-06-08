@@ -5,7 +5,7 @@ TODO: The last sentence in this section should provide the needs statement
 # Stakeholder map
 TODO: Provide your stakeholder map. Take note that you can upload images to GitHub to illustrate your Onion or Power/Interest diagram.
 
-## Category 1: Resource ProvidersAdd commentMore actions
+## Category 1: Resource Providers
 TODO: List stakeholders
 
 ## Category 2: Supporters & Beneficiaries of the Status Quo
