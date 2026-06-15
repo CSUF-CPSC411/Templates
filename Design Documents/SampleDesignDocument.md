@@ -23,10 +23,10 @@ How might we make cross-streets safer for children?
 1. Bystanders
 
 ## Onion Diagram
-![Onion Diagram](https://gist.github.com/user-attachments/assets/b9bb7c27-4c9c-4b9d-97ad-0aa03b0561f6)
+![Onion Diagram](images/onion-diagram.png)
 
 ## Power Interest Diagram
-![Power Interest Diagram](https://gist.github.com/user-attachments/assets/5f0e67f4-47ee-4a59-b0cb-a8c8cba77b2a)
+![Power Interest Diagram](images/power-interest-diagram.png)
 
 # Requirements
 1. Inexpensive
@@ -54,15 +54,15 @@ Develop an application to find temporary crossing guards and report unguarded cr
 
 # Prototypes
 Child crossing
-![01 Child Crossing](https://gist.github.com/user-attachments/assets/92f1fdf4-6ad6-4392-b379-60da5b5ef6cd)
+![01 Child Crossing](images/01-child-crossing.png)
 
 Registration
-![02 Registration](https://gist.github.com/user-attachments/assets/acb56beb-0133-45aa-8cc7-978536380ce9)
+![02 Registration](images/02-registration.png)
 
 Child crossing alert - primary guard
-![03 Child crossing alert - primary guard](https://gist.github.com/user-attachments/assets/770ef1ec-d82e-489b-814d-424eef797d3f)
+![03 Child crossing alert - primary guard](images/03-primary-guard.png)
 
-![04 Child crossing alert - primary guard](https://gist.github.com/user-attachments/assets/80229f99-13ac-485d-8be6-9aaa844839cd)
+![04 Child crossing alert - primary guard](images/04-primary-guard.png)
 
 Child crossing alert - crossing guard verification
-![05 Child crossing alert - crossing guard verification](https://gist.github.com/user-attachments/assets/a5bb215b-510a-4a30-8639-c0b0d5cde2fe)
+![05 Child crossing alert - crossing guard verification](images/05-crossing-guard-verification.png)
