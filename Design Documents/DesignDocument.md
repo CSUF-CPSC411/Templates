@@ -1,3 +1,9 @@
+# Project Title
+TODO: Add your project title here.
+
+# Group Members
+TODO: List all group members here.
+
 # Introduction
 TODO: Describe the problem that your app wants to solve
 TODO: The last sentence in this section should provide the needs statement
@@ -34,6 +40,33 @@ TODO: Describe your solution to the problem
 
 # Features
 TODO: List the features that you will implement and provide a short description for each.
+
+# Code Contributions
+TODO: Describe each group member’s implementation work.
+
+## Member Name 1
+### Structs / Classes
+TODO: Add one or more structs/classes here.
+TODO: For each struct/class, explain what it does.
+
+### Views
+TODO: Add one or more views here.
+TODO: For each view, explain what it does.
+
+### How It Connects
+TODO: Describe how this member’s structs, classes, or views use one or more other group members’ structs, classes, or views.
+
+## Member Name 2
+### Structs / Classes
+TODO: Add one or more structs/classes here.
+TODO: For each struct/class, explain what it does.
+
+### Views
+TODO: Add one or more views here.
+TODO: For each view, explain what it does.
+
+### How It Connects
+TODO: Describe how this member’s structs, classes, or views use one or more other group members’ structs, classes, or views.
 
 # Prototypes*
 TODO: Share your prototypes for users to see how your ideas evolved into the current application
